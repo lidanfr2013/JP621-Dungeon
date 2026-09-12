@@ -24,15 +24,6 @@ Python с полноценным ООП и JSON-хранилищем, сдаёт
 Pages → Branch `main` → `/docs`) он будет доступен по адресу
 `https://zakharmarinin.github.io/JP621-Final-Project/`.
 
-Посмотреть локально, без сборки:
-
-```
-cd docs
-python3 -m http.server 8000
-```
-
-и открыть `http://localhost:8000`.
-
 ## Структура репозитория
 
 ```

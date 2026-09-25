@@ -71,3 +71,22 @@ Load a saved game:
 ## Goal
 
 Explore the dungeon, collect items, defeat enemies, unlock doors and reach the throne room.
+
+## Project
+
+Dungeon Quest is a text-based dungeon game where the player can explore rooms, collect items, talk to NPCs, and fight enemies.
+
+## How to run
+
+Run main.py with Python 3.
+
+## Commands
+
+help
+go
+take
+talk
+attack
+use
+save
+load
